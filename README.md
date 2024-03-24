@@ -1,8 +1,10 @@
-# notes_hive
+# Notes Hive
 
 A new Flutter project.
 
 ## Getting Started
+
+[screenshot](./Screenshot%202024-03-24%20221310.png)
 
 This project is a starting point for a Flutter application.
 
