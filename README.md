@@ -1,6 +1,8 @@
-# notes_hive
+# Notes Hive
 
 A new Flutter project.
+
+[screenshot](./Screenshot%202024-03-24%20221310.png)
 
 ## Getting Started
 
